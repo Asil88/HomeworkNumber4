@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e39d73a6-d22a-4756-b1f9-6024a1dcfff4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task9.java" afterDir="false" />
-    </list>
+    <list default="true" id="e39d73a6-d22a-4756-b1f9-6024a1dcfff4" name="Changes" comment="ДЗ№4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,8 +97,16 @@
       <option name="presentableId" value="Default" />
       <updated>1662890883027</updated>
       <workItem from="1662890884251" duration="1829000" />
-      <workItem from="1662895846430" duration="24156000" />
+      <workItem from="1662895846430" duration="24651000" />
     </task>
+    <task id="LOCAL-00001" summary="ДЗ№4">
+      <created>1662931169732</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662931169732</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +122,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ДЗ№4" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ№4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
