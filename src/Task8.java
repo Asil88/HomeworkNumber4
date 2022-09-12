@@ -1,4 +1,7 @@
 public class Task8 {
+    /*Если в одномерном массиве имеются три подряд идущих одинаковых элемента,
+    то переменной r присвоить значение истина.*/
+
     public static void main(String[] args) {
         int[]array=new int[]{1,2,3,4,4,4,5,6,7,8,9,10};
         boolean r = false;

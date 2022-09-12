@@ -10,32 +10,37 @@ public class Task1 {
         int[] array = new int[50];
 
 
-            for (int i = 0; i < array.length; i++) {
-                array[i] = random.nextInt(40);
-            }
-
-            Arrays.sort(array);
-
-            int sum = array.length;
-
-            for (int i = 0; i < array.length; i++) {
-                if (array[i] == n) {
-                    sum = sum - 1;
-                }
-            }
-            int[] newArray = new int[sum];
-
-            for (int i = 0; i < sum; i++) {
-                if (i < sum) {
-                    if (array[i] != n)
-                        newArray[i] = array[i + 1];
-                } else {
-                    System.out.println("Число не входит в массив");
-                }
-            }
-            System.out.println(Arrays.toString(array));
-            System.out.println(Arrays.toString(newArray));
-
+        for (int i = 0; i < array.length; i++) {
+            array[i] = random.nextInt(40);
         }
+
+        Arrays.sort(array);
+
+        int sum = array.length;
+
+        for (int i = 0; i < array.length; i++) {
+            if (array[i] == n) {
+                sum = sum - 1;
+            }
+        }
+        int[] newArray = new int[sum];
+
+        for (int i = 1; i < sum; i++) {
+            ;
+            if (i < sum) {
+
+
+                if (array[i] == n && array[i - 1] == n) {
+                    newArray[i] = 0;
+                } else if (array[i] != n && array[i - 1] != n) {
+                    newArray[i] = array[i - 1];
+                }
+
+            }
+        }
+        System.out.println(Arrays.toString(array));
+        System.out.println(Arrays.toString(newArray));
+
+    }
 
 }
